@@ -1,0 +1,10 @@
+.user-container {
+  background: rgba(217, 231, 238);
+  color: rgba(33, 33, 33);
+}
+
+.user-card {
+  border-bottom: 1px solid rgba(33, 33, 33);
+  margin: 2rem;
+  padding: 1rem;
+}
